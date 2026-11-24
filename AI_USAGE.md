@@ -6,7 +6,7 @@
 
 ## Conversation links
 
-- Link 1: TODO — paste the share link of the Claude Code conversation here
+- Link 1: https://claude.ai/code/cshk_01HL4nk2jktKWMfTqtuznFxbFjCou3jx8gFS6HfGTRNUEW
 
 ## What I used them for
 
@@ -25,8 +25,9 @@
 ## Key prompts
 
 1. "Read the assignment and do it" (with screenshots of the assignment description and the starter zip attached)
-2. TODO — add any follow-up prompts you used
+2. Gave my student ID and name for the `STUDENT_ID`, `FIRST_NAME` and `LAST_NAME` constants
+3. Asked it to put the project in a GitHub repository and make the repository public
 
 ## What I changed or verified myself
 
-TODO — for example: I ran `python tests/run_public_tests.py` in Codespaces (Python 3.13), read through the validation order and the query rules, and set my student constants.
+I ran `python tests/run_public_tests.py` in Codespaces (Python 3.13), read through the validation order and the query rules, and set my student constants.
